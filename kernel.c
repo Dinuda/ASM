@@ -43,8 +43,8 @@ void main(void)
     vga_index = 0;
 
     clear_screen();
-    print_string("Hello from ASM Journal!", YELLOW);
+    print_string("Hello from ASM Journal", YELLOW);
     vga_index = 80;    /* next line */
-    print_string("Goodbye from ASM Journal!", RED);
+    print_string("Goodbye from ASM Journal", RED);
     return;
 }
