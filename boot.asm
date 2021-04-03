@@ -1,5 +1,5 @@
 
-bits 64
+bits 32
 
 section .multiboot               ;according to multiboot spec
         dd 0x1BADB002            ;set magic number for
