@@ -34,7 +34,7 @@ void print_string(char *str, unsigned char color)
     }
 }
 
-// sets internal location market to the next line
+// sets internal location marker to the next line
 // prints another message
 // returns back to the bootcode
 void main(void) 
