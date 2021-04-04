@@ -1,7 +1,7 @@
 # ASM
 Simple Kernal using C
 
-## Run
+## Run os
 You can use VirtualBox to open the ISO file after configring it.
 ISO file is in the repository.
 
